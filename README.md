@@ -2,6 +2,9 @@
 
 A feature-rich command-line interface (CLI) version of the classic casino game Blackjack, built with Python.
 
+This is a project for my Codecademy Computer Science course. I chose to build a Blackjack game to apply what I learned about classes and objects, as well as functions and control flow. I may continue to improve it in the future, as I learn more about Python.
+
+A link to the Dev.to article is here: {Add Link}
 ## Features
 
 -   **Classic Gameplay**: Play standard Blackjack against a dealer.
